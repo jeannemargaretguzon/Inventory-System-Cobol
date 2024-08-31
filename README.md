@@ -1,7 +1,7 @@
 # Inventory-System-Cobol
  
-Polytechnic University of the Philippines
-Bachelor of Science in Information Technology 2-5
+Polytechnic University of the Philippines </br>
+Bachelor of Science in Information Technology 2-5 </br>
 Inventory System 
 
 ### Created by
